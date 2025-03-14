@@ -4,25 +4,25 @@ Welcome to my Machine Learning journey! In this repository, I have documented an
 
 ## Table of Contents
 
-00 - Introduction
+00 - [Introduction](https://githubtocolab.com/NurSyatila/MachineLearning/blob/main/00_Intro.ipynb)
 
-01 - Introduction to Machine Learning
+01 - [Introduction to Machine Learning](https://githubtocolab.com/NurSyatila/MachineLearning/blob/main/01_introduction_ML.ipynb)
 
-02 - Introduction to Deep Learning
+02 - [Introduction to Deep Learning](https://githubtocolab.com/NurSyatila/MachineLearning/blob/main/02_introduction_DL.ipynb)
 
-03 - Python Libraries for ML
+03 - [Python Libraries for ML](https://githubtocolab.com/NurSyatila/MachineLearning/blob/main/03_python_libraries.ipynb)
 
-04 - Machine Learning Libraries
+04 - [Machine Learning Libraries](https://githubtocolab.com/NurSyatila/MachineLearning/blob/main/04_ML_libraries.ipynb)
 
-05 - Data Preprocessing
+05 - [Data Preprocessing](https://githubtocolab.com/NurSyatila/MachineLearning/blob/main/05_data_preprocessing.ipynb)
 
-06 - Supervised Learning
+06 - [Supervised Learning](https://githubtocolab.com/NurSyatila/MachineLearning/blob/main/06_supervised_learning.ipynb)
 
-07 - Unsupervised Learning
+07 - [Unsupervised Learning](https://githubtocolab.com/NurSyatila/MachineLearning/blob/main/07_unsupervised_learning.ipynb)
 
-08 - Model Evaluation
+08 - [Model Evaluation](https://githubtocolab.com/NurSyatila/MachineLearning/blob/main/08_model_evaluation.ipynb)
 
-09 - Model Deployment
+09 - [Model Deployment](https://githubtocolab.com/NurSyatila/MachineLearning/blob/main/09_model_deployment.ipynb)
 
 
 This introductory notebook sets the foundation for understanding machine learning (ML) and deep learning (DL). It explains the importance of these fields in modern AI applications and provides an overview of what the upcoming lessons will cover. We will also define essential concepts like supervised learning, unsupervised learning, and model evaluation.
@@ -34,5 +34,6 @@ This introductory notebook sets the foundation for understanding machine learnin
   a. Install Jupyter if you haven't already: `pip install notebook`
   b. Start the Jupyter server: `jupyter notebook`
 4. Open each notebook to explore the lessons and exercises
+5. OR simply, change the domain from 'github.com' to 'githubtocolab.com'. The notebook will open in Colab.
 
 This repository serves as a comprehensive guide for anyone looking to get started with machine learning and deep learning. Each notebook covers foundational topics and practical techniques that you can apply to real-world data science problems. Happy learning!
