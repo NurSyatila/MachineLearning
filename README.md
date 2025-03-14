@@ -5,15 +5,25 @@ Welcome to my Machine Learning journey! In this repository, I have documented an
 ## Table of Contents
 
 00 - Introduction
+
 01 - Introduction to Machine Learning
+
 02 - Introduction to Deep Learning
+
 03 - Python Libraries for ML
+
 04 - Machine Learning Libraries
+
 05 - Data Preprocessing
+
 06 - Supervised Learning
+
 07 - Unsupervised Learning
+
 08 - Model Evaluation
+
 09 - Model Deployment
+
 
 This introductory notebook sets the foundation for understanding machine learning (ML) and deep learning (DL). It explains the importance of these fields in modern AI applications and provides an overview of what the upcoming lessons will cover. We will also define essential concepts like supervised learning, unsupervised learning, and model evaluation.
 
