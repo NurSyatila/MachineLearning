@@ -22,7 +22,7 @@ This introductory notebook sets the foundation for understanding machine learnin
 1. Clone the repository to your local machine: `git clone https://github.com/username/MachineLearning.git`
 2. Navigate to the repository directory: `cd MachineLearning`
 3. Open the Jupyter Notebooks:<br /> 
-  a. Install Jupyter if you haven't already: `pip install notebook` <br />  
+  a. Install Jupyter if you haven't already: `pip install notebook`   
   b. Start the Jupyter server: `jupyter notebook` <br /> 
 4. Open each notebook to explore the lessons and exercises
 5. OR simply, change the domain from 'github.com' to 'githubtocolab.com'. The notebook will open in Colab.
